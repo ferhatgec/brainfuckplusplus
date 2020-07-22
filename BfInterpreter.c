@@ -13,6 +13,6 @@ char *code = "++++++++++[>+>+++>+++++++>++++++++++<<<<-]>>>++.>+.+++++++..+++.<<
 
 int main() {
     BfInterpreter(code);
-    std::cout << "\n";
+    printf("\n");
     return 0;
 }

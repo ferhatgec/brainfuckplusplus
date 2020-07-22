@@ -1,0 +1,3 @@
+system("gcc BfInterpreter.c -o bf");
+system("./bf");
+return
